@@ -1,4 +1,5 @@
 # React Quiz Game 🕹
+# Bad code
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
